@@ -1,3 +1,7 @@
 https://github.com/topologika/heat-conduction-in-graph.git
+<<<<<<< HEAD
 https://github.com/topologika/heat-conduction-in-graph.git
 alex2
+=======
+edited by me
+>>>>>>> master
